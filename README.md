@@ -1,8 +1,4 @@
-# React + Vite
+•	Utilized Bootstrap & styled components to create a responsive user interface, ensuring compatibility across devices.
+•	Add or Delete a Todo: By entering a task in the input field and press Enter or click the "Add" button, The new todo will be added to the list or Click on the "Delete" button to remove it from the list.
+•	Complete a Todo: Click on the checkbox next to a todo to mark it as completed. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
